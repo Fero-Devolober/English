@@ -2,8 +2,8 @@
   "paperId": "2023",
   "time": 45,
   "numQuestions": 37,
-  "pdfUrl": "",
-  "audio" : "",
+  "pdfUrl": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/0772-s23-qp-11.pdf",
+  "audio" : "https://github.com/Fero-Devolober/English/raw/refs/heads/main/0772-s23-sf-11.MP3",
   "answers": {
     "1": "B", "2": "C", "3": "B", "4": "A", "5": "D",
     "6": "A", "7": "C", "8": "D", "9": "A", "10": "D",
