@@ -1,5 +1,5 @@
 {
-  "imagepath": ".png",
+  "imagepath": "https://raw.githubusercontent.com/Fero-Devolober/English/f788f4ec32ef7e33be85ab4fd49d7d21d5e12578/data/English%20Class%20Label.jpg",
   "title": "Welcome to English additional Practice",
   "papers": {
     "2025 ": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2025.json",
