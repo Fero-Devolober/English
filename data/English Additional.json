@@ -2,8 +2,8 @@
   "imagepath": ".png",
   "title": "Welcome to English additional Practice",
   "papers": {
-    "2025 ": "",
-    "2024": "",
-    "2023": ""
+    "2025 ": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2025.json",
+    "2024": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2024.json",
+    "2023": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2023.json"
   }
 }
