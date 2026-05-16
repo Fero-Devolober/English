@@ -2,8 +2,11 @@
   "imagepath": "https://raw.githubusercontent.com/Fero-Devolober/English/f788f4ec32ef7e33be85ab4fd49d7d21d5e12578/data/English%20Class%20Label.jpg",
   "title": "Welcome to English additional Practice",
   "papers": {
-    "2025 ": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2025.json",
-    "2024": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2024.json",
-    "2023": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2023.json"
+    "2025-v1": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2025-v1.json",
+    "2025-v2": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2025-v2.json",
+    "2024-v1": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2024-v1.json",
+    "2024-v2": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2024-v2.json",
+    "2023-v1": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2023-v1.json",
+    "2023-v2": "https://github.com/Fero-Devolober/English/raw/refs/heads/main/data/2023-v2.json"
   }
 }
