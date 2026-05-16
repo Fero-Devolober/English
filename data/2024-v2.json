@@ -1,0 +1,17 @@
+{
+  "paperId": "2023",
+  "time": 45,
+  "numQuestions": 37,
+  "pdfUrl": "ferodeveloper.com/FeroPractice/EnglishData/pdfs/MJ-24-v2.pdf",
+  "audio" : "https://ferodeveloper.com/FeroPractice/EnglishData/audio/june-24-v2",
+  "answers": {
+    "1": "C", "2": "B", "3": "B", "4": "C", "5": "A",
+    "6": "C", "7": "D", "8": "A", "9": "A", "10": "D",
+    "11": "A", "12": "B", "13": "B", "14": "C", "15": "F",
+    "16": "C", "17": "A", "18": "E", "19": "B", "20": "B",
+    "21": "A", "22": "B", "23": "C", "24": "C", "25": "A",
+    "26": "A", "27": "C", "28": "B", "29": "D", "30": "B",
+    "31": "C", "32": "A", "33": "B", "34": "D", "35": "C,E",
+    "36": "B,D", "37": "A,E"
+  }
+}
