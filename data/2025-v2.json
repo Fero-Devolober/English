@@ -1,9 +1,9 @@
 {
-  "paperId": "2023",
+  "paperId": "2025-v2",
   "time": 45,
   "numQuestions": 37,
-  "pdfUrl": "ferodeveloper.com/FeroPractice/EnglishData/pdfs/MJ-25-v2.pdf",
-  "audio" : "https://ferodeveloper.com/FeroPractice/EnglishData/audio/june-25-v2",
+  "pdfUrl": "https://english-data.fero-devolober.workers.dev/MJ-25-v3.pdf",
+  "audio" : "https://english-data.fero-devolober.workers.dev/june-25-v2.mp3",
   "answers": {
     "1": "D", "2": "B", "3": "C", "4": "A", "5": "B",
     "6": "A", "7": "D", "8": "C", "9": "B", "10": "C",
