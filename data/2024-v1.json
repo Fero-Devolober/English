@@ -2,8 +2,8 @@
   "paperId": "2023",
   "time": 45,
   "numQuestions": 37,
-  "pdfUrl": "ferodeveloper.com/FeroPractice/EnglishData/pdfs/MJ-24-v1.pdf",
-  "audio" : "https://ferodeveloper.com/FeroPractice/EnglishData/audio/june-24-v1",
+  "pdfUrl": "https://english-data.fero-devolober.workers.dev/MJ-24-v1.pdf",
+  "audio" : "https://english-data.fero-devolober.workers.dev/june-24-v1.mp3",
   "answers": {
     "1": "C", "2": "A", "3": "B", "4": "D", "5": "D",
     "6": "A", "7": "B", "8": "C", "9": "C", "10": "A",
